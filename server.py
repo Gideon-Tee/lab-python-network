@@ -1,3 +1,10 @@
+'''
+This server code listens for a connection from a client
+It then sends a file (an image in this case, 'dodge-challenger.jpg') to the client upon request
+
+'''
+
+
 import socket
 
 # Server Configuration
